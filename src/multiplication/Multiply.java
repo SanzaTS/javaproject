@@ -11,7 +11,7 @@ public class Multiply {
 		System.out.println("Enter the  start Number: ");
 		int start = input.nextInt();
 		
-		System.out.println("Enter the end Number: ");
+		System.out.println("Enter the end Number: ");  
 		int end = input.nextInt();
 		
 		System.out.println("Enter Multiple: ");
